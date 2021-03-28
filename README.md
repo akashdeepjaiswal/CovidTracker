@@ -1,8 +1,10 @@
 # Live CovidTracker
 
 Link: https://covid-19-tracker-95636.web.app/
-#React.js #material-ui
-The website is React.Js based. It shows the live streaming of Covid data by categories like: today cases,total cases,total Recovered,total Deaths
+
+The website is React.Js based. 
+It shows the live streaming of Covid data by categories like: today cases,total cases,total Recovered,total Deaths.
+You can also click on countries to find details.
 
 In the project directory, you can run:
 
